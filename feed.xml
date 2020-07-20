@@ -28,9 +28,8 @@ href="https://www.apple.com/itunes/podcasts/">Apple Podcasts</a>.]]>
 </content:encoded>
 </description>
 <enclosure
-length="498537"
 type="audio/mpeg"
-url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
+url="https://github.com/hw-podcast/podcasts/releases/download/S01E04/S01E04Spike.mp3"
 />
 <guid>aae20190418</guid>
 <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
